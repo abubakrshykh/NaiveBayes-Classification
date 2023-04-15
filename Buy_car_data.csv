@@ -1,0 +1,20 @@
+S.No,Gender,Age Group,Income Status,Marital Status,Credit Rating,profession,License,Buy Car
+1,Female,Young,Low,Single,Fair,Non-IT,Yes,Yes
+2,Female,Old,Medium,Married,Bad,Non-IT,No,No
+3,Female,Young,Low,Divorced,Excellent,IT,Yes,Yes
+4,Male,Middle_aged,High,Married,Excellent,IT,Yes,No
+5,Female,Old,Medium,Divorced,Fair,Non-IT,No,Yes
+6,Male,Young,High,Single,Excellent,IT,Yes,Yes
+7,Male,Middle_aged,Low,Divorced,Bad,Non-IT,No,Yes
+8,Male,Middle_aged,Medium,Married,Excellent,Non-IT,Yes,No
+9,Male,Young,High,Single,Fair,Non-IT,Yes,No
+10,Male,Old,Medium,Married,Excellent,IT,No,Yes
+11,Female,Middle_aged,Low,Single,Bad,Non-IT,Yes,Yes
+12,Male,Old,High,Divorced,Excellent,IT,No,Yes
+13,Male,Young,Medium,Married,Fair,IT,Yes,Yes
+14,Male,Middle_aged,High,Single,Excellent,IT,No,No
+15,Female,Old,Low,Married,Bad,IT,Yes,Yes
+16,Female,Young,High,Single,Excellent,IT,No,No
+17,Male,Middle_aged,Medium,Divorced,Fair,Non-IT,No,Yes
+18,Male,Old,Low,Married,Fair,Non-IT,No,No
+19,Female,Young,Low,Single,Fair,IT,No,No
